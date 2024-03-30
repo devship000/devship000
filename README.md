@@ -219,12 +219,12 @@
 
 ## Top Project Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosR0127&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devship000&layout=compact&theme=midnight-purple)
 
 ## Stats
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=carlosR0127&theme=midnight-purple)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=devship000&theme=midnight-purple)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosR0127&theme=midnight-purple&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devship000&theme=midnight-purple&show_icons=true)
 
 
